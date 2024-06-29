@@ -4,7 +4,6 @@
 **Phone:** +1(647)218-1730  
 **Email:** [olga.leonovna@gmail.com](mailto:olga.leonovna@gmail.com)  
 **LinkedIn:** [linkedin.com/in/olga-borodchak](https://linkedin.com/in/olga-borodchak)  
-**GitHub:** [OlgaBorodchak](https://github.com/OlgaBorodchak)
 **Portfolio:** [www.curlycoder.ca/](https://www.curlycoder.ca)
 
 ## Junior Front-End Developer
@@ -68,9 +67,12 @@ const rps = (p1, p2) => {
 
 **Complete Course of JavaScript, Git, GitHub**
 Udemy, Bogdan Stashchuk - 2024
+
 **Front-End Development Certificate**
 CanSheCode Inc - Montreal, QC, Canada -  2022 - 2023
+
 **Diploma in Accounting and Payroll Administrator**
 CDI College - Toronto, ON, Canada - 2015
+
 **Diploma in Office Administrator Executive**
 CDI College - Toronto, ON, Canada - 2014 
