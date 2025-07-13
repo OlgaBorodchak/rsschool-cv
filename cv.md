@@ -47,3 +47,17 @@ Creative and driven front-end developer with a strong foundation in HTML, CSS, a
 
 - **Portfolio Website:** [www.curlycoder.ca](https://www.curlycoder.ca)
 - **GitHub:** [github.com/OlgaBorodchak](https://github.com/OlgaBorodchak)
+
+---
+
+## 📌 Code Sample
+
+```javascript
+function evenOrOdd(number) {
+  if (number % 2 === 0) {
+    return 'Even'
+  } else {
+    return 'Odd'
+  }
+}
+```
