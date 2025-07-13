@@ -1,1 +1,1 @@
-[rsschool-cv](https://OlgaBorodchak.github.io/rsschool-cv/cv)
+[rsschool-cv](https://OlgaBorodchak.github.io/rsschool-cv)
